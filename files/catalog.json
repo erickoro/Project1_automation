@@ -1,0 +1,67 @@
+[{
+    "source" : "magazine",
+    "title" : "Family Life",
+    "subject" : "edisi 14 Juli 2023",
+    "upc" : null,
+    "volume" : "7",
+    "issue" : null
+},
+{
+    "source" : "magazine",
+    "title" : "Kabari",
+    "subject" : "edisi 15 Juli 2023",
+    "upc" : null,
+    "volume" : "8",
+    "issue" : null
+},
+{
+    "source" : "book",
+    "title" : "Sejarah",
+    "subject" : "Oppenheimer",
+    "upc" : null,
+    "issbn" : "2938-9032",
+    "authors" : "C. Nolan",
+    "dds_number" : "092893298"
+},
+{
+    "source" : "book",
+    "title" : "Biografi",
+    "subject" : "Ericko si Data Engineer",
+    "upc" : null,
+    "issbn" : "3287-9320",
+    "authors" : "Ericko",
+    "dds_number" : "230932848394"
+},
+{
+    "source" : "cd",
+    "title" : "Hardcore",
+    "subject" : "Tears dont fall",
+    "upc" : null,
+    "artist" : "Bullet for my Valentine"
+},
+{
+    "source" : "cd",
+    "title" : "Pop",
+    "subject" : "Back to december",
+    "upc" : null,
+    "artist" : "Taylor Swift"
+},
+{
+    "source" : "dvd",
+    "title" : "One Piece",
+    "subject" : "Romance dawn",
+    "upc" : null,
+    "actors" : "Tom Cruise",
+    "director" : "E. Oda",
+    "genre" : "Anime"
+},
+{
+    "source" : "dvd",
+    "title" : "Peaky Blinders",
+    "subject" : "Blind",
+    "upc" : null,
+    "actors" : "C. Murphy",
+    "director" : null,
+    "genre" : "Action"
+}
+]
